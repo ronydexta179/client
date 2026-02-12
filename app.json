@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/icon.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.myless.hisense"
     },
     "web": {
       "output": "static",
@@ -31,7 +32,7 @@
         "expo-splash-screen",
         {
           "image": "./assets/images/splash-icon.png",
-          "imageWidth": 1242,
+          "imageWidth": 280,
           "resizeMode": "cover",
           "backgroundColor": "#000000",
           "dark": {
